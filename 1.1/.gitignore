@@ -1,0 +1,8 @@
+*.axf
+*.hex
+*.o
+*.d
+*.crf
+Output/
+build/
+*.uvgui*
